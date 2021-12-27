@@ -31,10 +31,8 @@ https://finance.yahoo.com/quotes/API,Documentation/view/v1/
 - Project 1 charts : "Project_1_visual_JM.pdf"
 - Voila : "Project_1_Voila.pdf"
 
-## LICENSE & COPYRIGHT
-
-[MIT](https://choosealicense.com/licenses/mit/)
-© Gabrielle Giordano, Tim Moriarty, Julia Milin, Alex Park, Dariush Ruch-Kamgar
+## Team Members
+Gabrielle Giordano, Tim Moriarty, Julia Milin, Alex Park, Dariush Ruch-Kamgar
 
 
 
