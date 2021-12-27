@@ -1,6 +1,5 @@
 ## project_1
 
-**Version 1.0.0**
 
 ## INTRODUCTION
 The purpose of this project is to analyze time tested financial coding in order to predict the best cryptocurrencies to add In the portfolio.  The project analyses top 30 + coins from Coin Market Cap to run a 2.5-year historical analysis.  Please see "Project One Columbia University.pptx.pdf" file for detailed outline.
