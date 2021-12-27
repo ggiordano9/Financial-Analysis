@@ -34,7 +34,7 @@ https://finance.yahoo.com/quotes/API,Documentation/view/v1/
 ## LICENSE & COPYRIGHT
 
 [MIT](https://choosealicense.com/licenses/mit/)
-© Tim Moriarty, Julia Milin, Gabrielle Giordano, Alex Park, Dariush Ruch-Kamgar
+© Gabrielle Giordano, Tim Moriarty, Julia Milin, Alex Park, Dariush Ruch-Kamgar
 
 
 
