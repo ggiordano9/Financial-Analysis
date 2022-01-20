@@ -26,7 +26,7 @@ Yahoo API DataReader
 https://finance.yahoo.com/quotes/API,Documentation/view/v1/
 
 ## Installation
-
+Download the repo at link: https://github.com/ggiordano9/Financial-Analysis by clicking 'Code' tab -> 'Download Zip'
 
 
 ## OTHER RESOURCES 
